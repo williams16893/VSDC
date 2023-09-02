@@ -1,0 +1,15 @@
+body .menutop ul li .item {
+    font-size: 14px
+}
+
+.readon span,
+.readon .button,
+#rt-showcase .readon span,
+#rt-showcase .readon .button,
+#rt-top-surround .readon span,
+#rt-top-surround .readon .button,
+#rt-footer-surround .readon span,
+#rt-footer-surround .readon .button,
+.rk-commentcount a {
+    font-size: 11px
+}
